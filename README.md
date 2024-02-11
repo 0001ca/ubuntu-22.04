@@ -2,7 +2,7 @@
 ```bash
 # Clone the project from Github
 git clone https://github.com/0001ca/ubuntu-22.04.git
-cd docker-stockapp
+cd ubuntu-22.04
 ```
 ### Build the image
 ```bash
