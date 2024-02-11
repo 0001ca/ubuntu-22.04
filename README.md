@@ -4,7 +4,7 @@
 git clone https://github.com/0001ca/ubuntu-22.04.git
 cd docker-stockapp
 ```
-# Build the image
+### Build the image
 ```bash
 docker build --build-arg PHP_VERSION=8.1 -t=0001ca/ubuntu-22.04:latest -f Dockerfile .
 ```
